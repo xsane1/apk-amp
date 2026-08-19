@@ -7,6 +7,10 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#020617",
+    "splash": {
+      "backgroundColor": "#020617",
+      "resizeMode": "contain"
+    },
     "android": {
       "package": "com.audioxpert.ampohm"
     },
@@ -17,5 +21,4 @@
     }
   }
 }
-
 
