@@ -7,10 +7,7 @@
     "userInterfaceStyle": "dark",
     "backgroundColor": "#020617",
     "android": {
-      "package": "com.audioxpert.ampohm",
-      "adaptiveIcon": {
-        "backgroundColor": "#020617"
-      }
+      "package": "com.audioxpert.ampohm"
     }
   }
 }
