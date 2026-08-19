@@ -2,6 +2,7 @@
   "expo": {
     "name": "AmpOhm",
     "slug": "ampohm",
+    "owner": "xxsanes-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -16,4 +17,3 @@
     }
   }
 }
-
