@@ -8,6 +8,15 @@
     "backgroundColor": "#020617",
     "android": {
       "package": "com.audioxpert.ampohm"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a3b04c27-31a3-481d-8f92-501140df98a9"
+      }
     }
   }
 }
+
+
+
+
